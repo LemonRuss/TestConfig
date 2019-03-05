@@ -5966,9 +5966,9 @@
 	      <POSVersions>
             <version id="9.9">
                 <enabled>true</enabled>
-                <loanCalculator>true</loanCalculator>
+                <loanCalculator>false</loanCalculator>
                 <newStatusRoad>true</newStatusRoad>
-              	<kladrEnabled>true</kladrEnabled>
+              	<kladrEnabled>false</kladrEnabled>
               	<posRuPhone>true</posRuPhone>
             </version>
             <version id="9.8">
