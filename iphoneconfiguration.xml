@@ -1500,6 +1500,7 @@
                     <DraftMessage900Enabled>true</DraftMessage900Enabled>
                     <AttachmentsForChatBotEnabled>true</AttachmentsForChatBotEnabled>
                     <MessengerChannelsEnabled>true</MessengerChannelsEnabled>
+                    <MessengerCrowdFunding>false</MessengerCrowdFunding>
 				</node>
 				<node id="node1.online.sberbank.ru">
                  	<MessengerLoginNew>true</MessengerLoginNew>
@@ -1529,6 +1530,7 @@
                     <DraftMessage900Enabled>true</DraftMessage900Enabled>
                     <AttachmentsForChatBotEnabled>true</AttachmentsForChatBotEnabled>
                     <MessengerChannelsEnabled>true</MessengerChannelsEnabled>
+                    <MessengerCrowdFunding>false</MessengerCrowdFunding>
 				</node>
 				<node id="node2.online.sberbank.ru">
                  	<MessengerLoginNew>true</MessengerLoginNew>
@@ -1558,6 +1560,7 @@
                     <DraftMessage900Enabled>true</DraftMessage900Enabled>
                     <AttachmentsForChatBotEnabled>true</AttachmentsForChatBotEnabled>
                  	<MessengerChannelsEnabled>true</MessengerChannelsEnabled>
+                    <MessengerCrowdFunding>false</MessengerCrowdFunding>
 				</node>
 				<node id="node3.online.sberbank.ru">
                  	<MessengerLoginNew>true</MessengerLoginNew>
@@ -1587,6 +1590,7 @@
                     <DraftMessage900Enabled>true</DraftMessage900Enabled>
                     <AttachmentsForChatBotEnabled>true</AttachmentsForChatBotEnabled>
                   	<MessengerChannelsEnabled>true</MessengerChannelsEnabled>
+                    <MessengerCrowdFunding>false</MessengerCrowdFunding>
 				</node>
               	<node id="node4.online.sberbank.ru">
                  	<MessengerLoginNew>true</MessengerLoginNew>
@@ -1616,6 +1620,7 @@
                     <DraftMessage900Enabled>true</DraftMessage900Enabled>
                     <AttachmentsForChatBotEnabled>true</AttachmentsForChatBotEnabled>
                   	<MessengerChannelsEnabled>true</MessengerChannelsEnabled>
+                    <MessengerCrowdFunding>false</MessengerCrowdFunding>
 				</node>
 				<node id="greenfield1.online.sberbank.ru">
                  	<MessengerLoginNew>true</MessengerLoginNew>
@@ -1645,6 +1650,7 @@
                     <DraftMessage900Enabled>true</DraftMessage900Enabled>
                     <AttachmentsForChatBotEnabled>true</AttachmentsForChatBotEnabled>
                   	<MessengerChannelsEnabled>true</MessengerChannelsEnabled>
+                    <MessengerCrowdFunding>true</MessengerCrowdFunding>
 				</node>
 				<node id="greenfield2.online.sberbank.ru">
                  	<MessengerLoginNew>true</MessengerLoginNew>
@@ -1674,6 +1680,7 @@
                     <DraftMessage900Enabled>true</DraftMessage900Enabled>
                     <AttachmentsForChatBotEnabled>true</AttachmentsForChatBotEnabled>
                   	<MessengerChannelsEnabled>true</MessengerChannelsEnabled>
+                    <MessengerCrowdFunding>true</MessengerCrowdFunding>
 				</node>
             	<node id="ift-node1-mp.testonline.sberbank.ru">
                  	<MessengerLoginNew>true</MessengerLoginNew>
@@ -1703,6 +1710,7 @@
                     <DraftMessage900Enabled>true</DraftMessage900Enabled>
                     <AttachmentsForChatBotEnabled>true</AttachmentsForChatBotEnabled>
                   	<MessengerChannelsEnabled>true</MessengerChannelsEnabled>
+                    <MessengerCrowdFunding>true</MessengerCrowdFunding>
 				</node>
                 <node id="ift-node2-mp.testonline.sberbank.ru">
                  	<MessengerLoginNew>true</MessengerLoginNew>
@@ -1732,6 +1740,7 @@
                     <DraftMessage900Enabled>true</DraftMessage900Enabled>
                     <AttachmentsForChatBotEnabled>true</AttachmentsForChatBotEnabled>
                   	<MessengerChannelsEnabled>true</MessengerChannelsEnabled>
+                    <MessengerCrowdFunding>true</MessengerCrowdFunding>
 				</node>
               	<node id="mobile.sberbank.ru">
                  	<MessengerLoginNew>true</MessengerLoginNew>
@@ -1745,7 +1754,6 @@
                   	<MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
                     <MessengerVoicePostcard>true</MessengerVoicePostcard>
                     <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
-                    <MessengerP2PRetranslation>false</MessengerP2PRetranslation>
                   	<MessengerDocDoc>true</MessengerDocDoc>
                   	<MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
                     <MessengerPin>true</MessengerPin>
@@ -1761,6 +1769,7 @@
                     <DraftMessage900Enabled>true</DraftMessage900Enabled>
                     <AttachmentsForChatBotEnabled>true</AttachmentsForChatBotEnabled>
                   	<MessengerChannelsEnabled>true</MessengerChannelsEnabled>
+                    <MessengerCrowdFunding>true</MessengerCrowdFunding>
 				</node>
               	<node id="mobile.sberbank.ru:4459">
                  	<MessengerLoginNew>true</MessengerLoginNew>
@@ -1773,8 +1782,7 @@
                   	<MessengerPostcardForNonClient>true</MessengerPostcardForNonClient>
                   	<MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
                     <MessengerVoicePostcard>true</MessengerVoicePostcard>
-                    <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
-                    <MessengerP2PRetranslation>false</MessengerP2PRetranslation>
+                    <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>                   
                   	<MessengerDocDoc>true</MessengerDocDoc>
                   	<MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
                     <MessengerPin>true</MessengerPin>
@@ -1790,6 +1798,7 @@
                     <DraftMessage900Enabled>true</DraftMessage900Enabled>
                     <AttachmentsForChatBotEnabled>true</AttachmentsForChatBotEnabled>
                   	<MessengerChannelsEnabled>true</MessengerChannelsEnabled>
+                    <MessengerCrowdFunding>true</MessengerCrowdFunding>
 				</node>
               	<node id="mobile.sberbank.ru:4460">
                  	<MessengerLoginNew>true</MessengerLoginNew>
@@ -1802,8 +1811,7 @@
                   	<MessengerPostcardForNonClient>true</MessengerPostcardForNonClient>
                   	<MessengerPostcardUGCVideo>true</MessengerPostcardUGCVideo>
                     <MessengerVoicePostcard>true</MessengerVoicePostcard>
-                    <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>
-                    <MessengerP2PRetranslation>false</MessengerP2PRetranslation>
+                    <MessengerVoicePostcardTutorial>true</MessengerVoicePostcardTutorial>                
                   	<MessengerDocDoc>true</MessengerDocDoc>
                   	<MessengerOpenDialogWithDeepLink>true</MessengerOpenDialogWithDeepLink>
                     <MessengerPin>true</MessengerPin>
@@ -1818,7 +1826,8 @@
                     <DraftMessagesEnabled>false</DraftMessagesEnabled>
                     <DraftMessage900Enabled>true</DraftMessage900Enabled>
                     <AttachmentsForChatBotEnabled>true</AttachmentsForChatBotEnabled>
-                  	<MessengerChannelsEnabled>true</MessengerChannelsEnabled>
+                  	<MessengerChannelsEnabled>true</MessengerChannelsEnabled>          
+                    <MessengerCrowdFunding>true</MessengerCrowdFunding>
 				</node>
 			</nodes>
                 </param>
@@ -1975,9 +1984,9 @@
                   <SendALFConnectInHistory>true</SendALFConnectInHistory>
 				</node>
 				<node id="ift-node1.testonline.sberbank.ru">
-					<PFMSimilarSpendings>true</PFMSimilarSpendings>
+					<PFMSimilarSpendings>false</PFMSimilarSpendings>
 					<currentPfmApiVersion description ="Устаревший параметр">1.30</currentPfmApiVersion>
-                    <PFMUserParams>true</PFMUserParams>
+                    <PFMUserParams>false</PFMUserParams>
 					<PFMOfferTips>false</PFMOfferTips>
                  	<pfmApiVersion>1.30</pfmApiVersion>
  					<minAppVersionFromPFMApiVersion>9.1</minAppVersionFromPFMApiVersion>
@@ -1987,9 +1996,9 @@
                   <SendALFConnectInHistory>true</SendALFConnectInHistory>
 				</node>
 				<node id="ift-node1-mp.testonline.sberbank.ru">
-					<PFMSimilarSpendings>true</PFMSimilarSpendings>
+					<PFMSimilarSpendings>false</PFMSimilarSpendings>
 					<currentPfmApiVersion description ="Устаревший параметр">1.30</currentPfmApiVersion>
-                    <PFMUserParams>true</PFMUserParams>
+                    <PFMUserParams>false</PFMUserParams>
 					<PFMOfferTips>false</PFMOfferTips>
                   	<pfmApiVersion>1.30</pfmApiVersion>
  					<minAppVersionFromPFMApiVersion>9.1</minAppVersionFromPFMApiVersion>
@@ -3112,7 +3121,7 @@
                   	<authBlockingScreen>true</authBlockingScreen>
                   	<PrintAutoSubscriptionTutorialCheck>true</PrintAutoSubscriptionTutorialCheck>
                     <balanceFromPush>true</balanceFromPush>
-                    <PaymentsRequisiteGroupingEnabled>false</PaymentsRequisiteGroupingEnabled>
+                    <PaymentsRequisiteGroupingEnabled>true</PaymentsRequisiteGroupingEnabled>
 				</node>
 				<node id="ift-node1.testonline.sberbank.ru">
 					<coreQR>true</coreQR>
@@ -4288,88 +4297,6 @@
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="offers" description="Предложения продуктов на витринах продаж">
-			<type>list</type>
-			<enabled>true</enabled>
-          	<mainScreen>
-            	<enabled>true</enabled>
-            	<limit>2147483647</limit>
-            	<expandedOffers>true</expandedOffers>
-            	<electionsOffers>false</electionsOffers>
-			</mainScreen>
-			<successScreen>
-				<enabled>true</enabled>
-				<limit>2147483647</limit>
-			</successScreen>
-			<mainScreenStories>
-				<enabled>true</enabled>
-				<limit>2147483647</limit>
-				<closed>true</closed>
-				<opened>false</opened>
-			</mainScreenStories>
-            <products>
-                <product name="Universal">
-			    	<url>http://lightapp.ru/config/salestools/unknown/index.html</url>
-			    	<actionTitle>Далее</actionTitle>
-		        </product>
-                <product name="MobilePhoneAutopayment">
-			    	<url>http://lightapp.ru/config/salestools/mobile_phone_autopayment/index.html</url>
-			    	<actionTitle>Далее</actionTitle>
-		        </product>
-				<product name="AutopaymentSetting">
-					<url>http://lightapp.ru/config/salestools/autopayment_setting/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-				<product name="Deposit">
-					<url>http://lightapp.ru/config/salestools/deposit/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-				<product name="FamilyHead">
-					<url>http://lightapp.ru/config/salestools/family_head/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-				<product name="PensionTransfer">
-					<url>http://lightapp.ru/config/salestools/pension_transfer/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-				<product name="RelativesProtection">
-					<url>http://lightapp.ru/config/salestools/relativesprotection/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-				<product name="CreateMoneybox">
-					<url>http://lightapp.ru/config/salestools/create_moneybox/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-				<product name="CreditCard">
-					<url>http://lightapp.ru/config/salestools/credit_card/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-				<product name="TransferBetweenMyAccounts">
-					<url>http://lightapp.ru/config/salestools/transfer_between_my_accounts/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-				<product name="TransferByCardNumber">
-					<url>http://lightapp.ru/config/salestools/transfer_by_card_number/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-				<product name="TransferByPhoneNumber">
-					<url>http://lightapp.ru/config/salestools/transfer_by_phone_number/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-				<product name="MortgageInsurance">
-					<url>http://lightapp.ru/config/salestools/mortgage_insurance/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-				<product name="TravelInsurance">
-					<url>http://lightapp.ru/config/salestools/travel_insurance/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-				<product name="CreateTarget">
-					<url>http://lightapp.ru/config/salestools/create_target/index.html</url>
-					<actionTitle>Далее</actionTitle>
-				</product>
-	      	</products>
-    	</param>
     	<param name="offersAndStories" description="Предложения продуктов и истории на витринах продаж">
         	<type>list</type>
 			<enabled>true</enabled>
@@ -5502,7 +5429,7 @@
        </param>
       <param name="CarLoansRus" description="Ввод марок/моделей на русском">
         	<type>setting</type>
-        	<enabled>false</enabled>
+        	<enabled>true</enabled>
       </param>
       <param name="CarLoansAutoPay" description="Доступность автоплатежа из детализации АК">
         	<type>setting</type>
@@ -5676,7 +5603,7 @@
 		</param>
       	<param name="UfsInvestmentsBuyShareHistory" description="История операций по докупке ПИФ">
 			<type>setting</type>
-			<enabled>true</enabled>
+			<enabled>false</enabled>
 		</param>
       	<param name="UfsPensionPaymentIppHistory" description="История операций по пополнению ИПП">
           	<type>setting</type>
@@ -5816,6 +5743,29 @@
                    <targetProvider>620678</targetProvider>
                 </node>
               </nodes>
+		</param>
+      	<param name="EribGibddInfoService" description="Идентификаторы информационной услуги ГИБДД">
+   			<type>list</type>
+   			<nodes>
+      			<node id="ift-node1-mp.testonline.sberbank.ru">
+         			<enabled>true</enabled>
+         			<targetService>625375</targetService>
+         			<targetBilling>344</targetBilling>
+         			<targetProvider>625375</targetProvider>
+      			</node>
+      			<node id="ift-node2-mp.testonline.sberbank.ru">
+         			<enabled>true</enabled>
+         			<targetService>500413943</targetService>
+         			<targetBilling>284</targetBilling>
+         			<targetProvider>500413943</targetProvider>
+      			</node>
+      			<node id="mobile.sberbank.ru">
+         			<enabled>true</enabled>
+         			<targetService>500413943</targetService>
+         			<targetBilling>284</targetBilling>
+         			<targetProvider>500413943</targetProvider>
+      			</node>
+   			</nodes>
 		</param>
 		<param name="creditCapacity" description="Кредитный потенциал">
 			<type>setting</type>
@@ -5966,15 +5916,15 @@
 	      <POSVersions>
             <version id="9.9">
                 <enabled>true</enabled>
-                <loanCalculator>false</loanCalculator>
+                <loanCalculator>true</loanCalculator>
                 <newStatusRoad>true</newStatusRoad>
-              	<kladrEnabled>false</kladrEnabled>
+              	<kladrEnabled>true</kladrEnabled>
               	<posRuPhone>true</posRuPhone>
             </version>
             <version id="9.8">
                 <enabled>true</enabled>
-                <loanCalculator>false</loanCalculator>
-              	<kladrEnabled>false</kladrEnabled>
+                <loanCalculator>true</loanCalculator>
+              	<kladrEnabled>true</kladrEnabled>
             </version>
             <version id="default">
                 <enabled>true</enabled>
@@ -7555,96 +7505,96 @@
 			<enabled>true</enabled>
           	<enabledInP2PTransfer>true</enabledInP2PTransfer>
           	<enabledInMessenger>true</enabledInMessenger>
-          	<enabledInInternalPayments>true</enabledInInternalPayments>
-          	<enabledInPayments>true</enabledInPayments>
+          	<enabledInInternalPaymentsV2>true</enabledInInternalPaymentsV2>
+          	<enabledInPaymentsV2>true</enabledInPaymentsV2>
           	<lightSchemeForMessenger>true</lightSchemeForMessenger>
 			<nodes>
 				<node id="node0.online.sberbank.ru">
 					<enabled>true</enabled>
                   	<enabledInP2PTransfer>true</enabledInP2PTransfer>
           			<enabledInMessenger>true</enabledInMessenger>
-          			<enabledInInternalPayments>true</enabledInInternalPayments>
-          			<enabledInPayments>true</enabledInPayments>
+          			<enabledInInternalPaymentsV2>true</enabledInInternalPaymentsV2>
+          			<enabledInPaymentsV2>true</enabledInPaymentsV2>
                   	<lightSchemeForMessenger>true</lightSchemeForMessenger>
 				</node>
 				<node id="node1.online.sberbank.ru">
 					<enabled>true</enabled>
                     <enabledInP2PTransfer>true</enabledInP2PTransfer>
           			<enabledInMessenger>true</enabledInMessenger>
-          			<enabledInInternalPayments>true</enabledInInternalPayments>
-          			<enabledInPayments>true</enabledInPayments>
+          			<enabledInInternalPaymentsV2>true</enabledInInternalPaymentsV2>
+          			<enabledInPaymentsV2>true</enabledInPaymentsV2>
                   	<lightSchemeForMessenger>true</lightSchemeForMessenger>
 				</node>
 				<node id="node2.online.sberbank.ru">
 					<enabled>true</enabled>
                   	<enabledInP2PTransfer>true</enabledInP2PTransfer>
           			<enabledInMessenger>true</enabledInMessenger>
-          			<enabledInInternalPayments>true</enabledInInternalPayments>
-          			<enabledInPayments>true</enabledInPayments>
+          			<enabledInInternalPaymentsV2>true</enabledInInternalPaymentsV2>
+          			<enabledInPaymentsV2>true</enabledInPaymentsV2>
                   	<lightSchemeForMessenger>true</lightSchemeForMessenger>
 				</node>
 				<node id="node3.online.sberbank.ru">
 					<enabled>true</enabled>
                   	<enabledInP2PTransfer>true</enabledInP2PTransfer>
           			<enabledInMessenger>true</enabledInMessenger>
-          			<enabledInInternalPayments>true</enabledInInternalPayments>
-          			<enabledInPayments>true</enabledInPayments>
+          			<enabledInInternalPaymentsV2>true</enabledInInternalPaymentsV2>
+          			<enabledInPaymentsV2>true</enabledInPaymentsV2>
                   	<lightSchemeForMessenger>true</lightSchemeForMessenger>
 				</node>
               	<node id="ift-node5-mp.testonline.sberbank.ruu">
 					<enabled>true</enabled>
                   	<enabledInP2PTransfer>true</enabledInP2PTransfer>
           			<enabledInMessenger>true</enabledInMessenger>
-          			<enabledInInternalPayments>true</enabledInInternalPayments>
-          			<enabledInPayments>true</enabledInPayments>
+          			<enabledInInternalPaymentsV2>true</enabledInInternalPaymentsV2>
+          			<enabledInPaymentsV2>true</enabledInPaymentsV2>
                   	<lightSchemeForMessenger>true</lightSchemeForMessenger>
 				</node>
 				<node id="greenfield1.online.sberbank.ru">
 					<enabled>true</enabled>
                   	<enabledInP2PTransfer>true</enabledInP2PTransfer>
           			<enabledInMessenger>true</enabledInMessenger>
-          			<enabledInInternalPayments>true</enabledInInternalPayments>
-          			<enabledInPayments>true</enabledInPayments>
+          			<enabledInInternalPaymentsV2>true</enabledInInternalPaymentsV2>
+          			<enabledInPaymentsV2>true</enabledInPaymentsV2>
                   	<lightSchemeForMessenger>true</lightSchemeForMessenger>
 				</node>
 				<node id="mobile.sberbank.ru">
 					<enabled>true</enabled>
                   	<enabledInP2PTransfer>true</enabledInP2PTransfer>
           			<enabledInMessenger>true</enabledInMessenger>
-          			<enabledInInternalPayments>true</enabledInInternalPayments>
-          			<enabledInPayments>true</enabledInPayments>
+          			<enabledInInternalPaymentsV2>true</enabledInInternalPaymentsV2>
+          			<enabledInPaymentsV2>true</enabledInPaymentsV2>
                   	<lightSchemeForMessenger>true</lightSchemeForMessenger>
 				</node>
 				<node id="ift-node1.testonline.sberbank.ru">
 					<enabled>true</enabled>
                   	<enabledInP2PTransfer>true</enabledInP2PTransfer>
           			<enabledInMessenger>true</enabledInMessenger>
-          			<enabledInInternalPayments>true</enabledInInternalPayments>
-          			<enabledInPayments>true</enabledInPayments>
+          			<enabledInInternalPaymentsV2>true</enabledInInternalPaymentsV2>
+          			<enabledInPaymentsV2>true</enabledInPaymentsV2>
                   	<lightSchemeForMessenger>true</lightSchemeForMessenger>
 				</node>
 				<node id="ift-node2.testonline.sberbank.ru">
 					<enabled>true</enabled>
                   	<enabledInP2PTransfer>true</enabledInP2PTransfer>
           			<enabledInMessenger>true</enabledInMessenger>
-          			<enabledInInternalPayments>true</enabledInInternalPayments>
-          			<enabledInPayments>true</enabledInPayments>
+          			<enabledInInternalPaymentsV2>true</enabledInInternalPaymentsV2>
+          			<enabledInPaymentsV2>true</enabledInPaymentsV2>
                   	<lightSchemeForMessenger>true</lightSchemeForMessenger>
 				</node>
 				<node id="ift-node1-mp.testonline.sberbank.ru">
 					<enabled>true</enabled>
                   	<enabledInP2PTransfer>true</enabledInP2PTransfer>
           			<enabledInMessenger>true</enabledInMessenger>
-          			<enabledInInternalPayments>true</enabledInInternalPayments>
-          			<enabledInPayments>true</enabledInPayments>
+          			<enabledInInternalPaymentsV2>true</enabledInInternalPaymentsV2>
+          			<enabledInPaymentsV2>true</enabledInPaymentsV2>
                   	<lightSchemeForMessenger>true</lightSchemeForMessenger>
 				</node>
 				<node id="ift-node2-mp.testonline.sberbank.ru">
 					<enabled>true</enabled>
                   	<enabledInP2PTransfer>true</enabledInP2PTransfer>
           			<enabledInMessenger>true</enabledInMessenger>
-          			<enabledInInternalPayments>true</enabledInInternalPayments>
-          			<enabledInPayments>true</enabledInPayments>
+          			<enabledInInternalPaymentsV2>true</enabledInInternalPaymentsV2>
+          			<enabledInPaymentsV2>true</enabledInPaymentsV2>
                   	<lightSchemeForMessenger>true</lightSchemeForMessenger>
 				</node>
 			</nodes>
@@ -7907,19 +7857,22 @@
             <type>list</type>
             <enabled>true</enabled>
           	<minorsLimit>50000</minorsLimit>
-			
+          	<appAdditionalPercentage>0.15</appAdditionalPercentage>
+			<!--Смотрим на параметр depCloseAlert с версии 9.9-->
+          	<depCloseAlert>false</depCloseAlert>
+          
 			<!-- Настройка предупреждающих сообщений при разнице валют -->
             <diffCurrencyTexts>
                 <diffCurrencyText id="Normal">
                     <DCWarningTitle>Не теряйте деньги на конвертации</DCWarningTitle>
                     <DCWarningText>Валюты вклада и выбранного счёта не совпадают, поэтому перевод пройдёт по текущему курсу обмена. Чтобы не терять деньги, выберите счёт в валюте вклада.</DCWarningText>
-                    <DCWarningOkButton>ПЕРЕВЕСТИ</DCWarningOkButton>
+                    <DCWarningOkButton>ВСЁ РАВНО ПЕРЕВЕСТИ</DCWarningOkButton>
                     <DCWarningCancelButton>ВЫБРАТЬ ДРУГОЙ СЧЁТ</DCWarningCancelButton>
                 </diffCurrencyText>
                 <diffCurrencyText id="Pref">
                     <DCWarningTitle>Не теряйте деньги на конвертации</DCWarningTitle>
                     <DCWarningText>Валюты вклада и выбранного счёта не совпадают, поэтому перевод пройдёт по льготному курсу обмена. Чтобы не терять деньги, выберите счёт в валюте вклада.</DCWarningText>
-                    <DCWarningOkButton>ПЕРЕВЕСТИ</DCWarningOkButton>
+                    <DCWarningOkButton>ВСЁ РАВНО ПЕРЕВЕСТИ</DCWarningOkButton>
                     <DCWarningCancelButton>ВЫБРАТЬ ДРУГОЙ СЧЁТ</DCWarningCancelButton>
                 </diffCurrencyText>
             </diffCurrencyTexts>
@@ -7927,104 +7880,89 @@
             <nodes>
               <!--Смотрим на параметр amountPickerShowHintPopoverNew с версии 9.6-->
               <!--Смотрим на параметр diffCurrencyWarning с версии 9.8-->
-			  <!--Смотрим на параметр depCloseAlert с версии 9.9-->
               <node id="mobile.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>false</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
               </node>
               <node id="node0.online.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
 			  </node>
               <node id="node1.online.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
 			  </node>
               <node id="node2.online.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
               </node>
               <node id="node3.online.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
               </node>
               <node id="node4.online.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
               </node>
               <node id="greenfield1.online.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
               </node>
               <node id="greenfield2.online.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
               </node>
               <node id="ift-node1-mp.testonline.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
               </node>
               <node id="ift-node2-mp.testonline.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
               </node>
               <node id="ift-node3-mp.testonline.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
               </node>
               <node id="ift-node4-mp.testonline.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
               </node>
               <node id="psinode1.testonline.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
               </node>
               <node id="psinode2.testonline.sberbank.ru">
                     <minorsWarning>true</minorsWarning>
                 	<autoSelectionForDepositTransferToResource>true</autoSelectionForDepositTransferToResource>
                 	<amountPickerShowHintPopoverNew>true</amountPickerShowHintPopoverNew>
 					<diffCurrencyWarning>true</diffCurrencyWarning>
-					<depCloseAlert>true</depCloseAlert>
               </node>
             </nodes>
         </param>
@@ -8751,6 +8689,10 @@
         </nodes>
 	</param>
          
+      <param name="PlasticCardLifeCycleMessages" description="Информационные сообщения по 9.5">
+        <type>service</type>
+           <enabled>true</enabled>
+       </param> 
        <param name="PlasticCardLifeCycleAllMessages" description="Информационные сообщения по жизненному циклу карт">
         <type>service</type>
            <enabled>true</enabled>
@@ -9158,8 +9100,7 @@
             <BarcodeTutorialEnabled>true</BarcodeTutorialEnabled>
             <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
             <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
-            <paymentsAutoFill>true</paymentsAutoFill>
-            <paymentsRequisiteGrouping>false</paymentsRequisiteGrouping>
+            <paymentsAutoFill>false</paymentsAutoFill>
             <paymentCertificate>true</paymentCertificate>
             <paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
             <paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
@@ -9169,8 +9110,7 @@
             <BarcodeTutorialEnabled>false</BarcodeTutorialEnabled>
             <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
             <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
-            <paymentsAutoFill>true</paymentsAutoFill>
-            <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
+            <paymentsAutoFill>false</paymentsAutoFill>
             <paymentCertificate>true</paymentCertificate>
             <paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
             <paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
@@ -9180,8 +9120,7 @@
             <BarcodeTutorialEnabled>false</BarcodeTutorialEnabled>
             <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
             <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
-            <paymentsAutoFill>true</paymentsAutoFill>
-            <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
+            <paymentsAutoFill>false</paymentsAutoFill>
             <paymentCertificate>true</paymentCertificate>
             <paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
             <paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
@@ -9191,8 +9130,7 @@
             <BarcodeTutorialEnabled>false</BarcodeTutorialEnabled>
             <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
             <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
-            <paymentsAutoFill>true</paymentsAutoFill>
-            <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
+            <paymentsAutoFill>false</paymentsAutoFill>
             <paymentCertificate>true</paymentCertificate>
             <paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
             <paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
@@ -9202,8 +9140,7 @@
             <BarcodeTutorialEnabled>false</BarcodeTutorialEnabled>
             <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
             <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
-            <paymentsAutoFill>true</paymentsAutoFill>
-            <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
+            <paymentsAutoFill>false</paymentsAutoFill>
             <paymentCertificate>true</paymentCertificate>
             <paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
             <paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
@@ -9213,8 +9150,7 @@
             <BarcodeTutorialEnabled>false</BarcodeTutorialEnabled>
             <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
             <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
-            <paymentsAutoFill>true</paymentsAutoFill>
-            <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
+            <paymentsAutoFill>false</paymentsAutoFill>
             <paymentCertificate>true</paymentCertificate>
             <paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
             <paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
@@ -9224,8 +9160,7 @@
             <BarcodeTutorialEnabled>false</BarcodeTutorialEnabled>
             <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
             <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
-            <paymentsAutoFill>true</paymentsAutoFill>
-            <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
+            <paymentsAutoFill>false</paymentsAutoFill>
             <paymentCertificate>true</paymentCertificate>
             <paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
             <paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
@@ -9235,8 +9170,7 @@
             <BarcodeTutorialEnabled>true</BarcodeTutorialEnabled>
             <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
             <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
-            <paymentsAutoFill>true</paymentsAutoFill>
-            <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
+            <paymentsAutoFill>false</paymentsAutoFill>
             <paymentCertificate>true</paymentCertificate>
             <paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
             <paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
@@ -9246,8 +9180,7 @@
             <BarcodeTutorialEnabled>true</BarcodeTutorialEnabled>
             <BarcodeScanIconEnabled>true</BarcodeScanIconEnabled>
             <QRCodeBubbleEnabled>true</QRCodeBubbleEnabled>
-            <paymentsAutoFill>true</paymentsAutoFill>
-            <paymentsRequisiteGrouping>true</paymentsRequisiteGrouping>
+            <paymentsAutoFill>false</paymentsAutoFill>
             <paymentCertificate>true</paymentCertificate>
             <paymentExternalCheckEnabled>true</paymentExternalCheckEnabled>
             <paymentExecTimeInfoEnabled>true</paymentExecTimeInfoEnabled>
@@ -9760,7 +9693,7 @@
 	</param>
 	<param name="ChangeVisibilityProduct" description="Частичное скрытие продукта">
 			<type>setting</type>
-			<enabled>false</enabled>
+			<enabled>true</enabled>
 	</param>
 	<param name="gsHideDeposits" description="Полное скрытие депозитов">
 			<type>setting</type>
