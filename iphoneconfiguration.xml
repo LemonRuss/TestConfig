@@ -5974,7 +5974,7 @@
             <version id="9.8">
                 <enabled>true</enabled>
                 <loanCalculator>true</loanCalculator>
-              	<kladrEnabled>true</kladrEnabled>
+              	<kladrEnabled>false</kladrEnabled>
             </version>
             <version id="default">
                 <enabled>true</enabled>
